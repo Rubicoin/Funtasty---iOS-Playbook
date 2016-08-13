@@ -1,4 +1,4 @@
-# Funtasty's Swift Style Guide
+# Rubicoin's Swift Style Guide
 
 Our overarching goals are conciseness, readability, and simplicity.
 
